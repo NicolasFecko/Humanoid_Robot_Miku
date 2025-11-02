@@ -17,3 +17,11 @@ Only 3 so far
 ![6050943660154620903](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTkzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--0baf41ccaca7f5ed1f13daf678886b5ba5a4281e/6050943660154620903.jpg)
   
 
+## 11/2/2025 - FreeCAD beginning   
+
+I am getting into FreeCAD to make a design of the entire robot before assembly.
+I learned how to use it fairly quickly and I began modeling the parts of the robot.
+
+The first part was the face Display of the Robot.![Screenshot_2025-11-02_11-11-11](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzcwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--6e0ed12cd545c044e5393ddf4416494068990422/Screenshot_2025-11-02_11-11-11.jpg)
+  
+
